@@ -24,6 +24,7 @@ This design went back to the idea that the PI should be static and attached to t
 
 This was printed in grey PLA but was then painted white to match the walls of the classroom. Future prints should be white. A [Prusa Mini+](https://www.prusa3d.com/product/original-prusa-mini-semi-assembled-3d-printer-4/) was used to print all the models.
 
+Camera case requires inserts for screws [found here](https://www.mcmaster.com/catalog/129/3725/94180A321), screws [found here](https://www.mcmaster.com/catalog/129/3494/91290A099), bolts for arm [found here](https://www.mcmaster.com/catalog/129/3508/91292A114) with nuts [found here](https://www.mcmaster.com/catalog/129/3593/97259A101). Tools for these parts can also be found at McMaster-Carr as well as alternative parts.
 
 ### Other
 
